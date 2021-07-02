@@ -6,4 +6,4 @@ Step 1b: Select sauce (marinara, BBQ)
 Step 1c: Select toppings (Mushrooms, green peppers, black olives)
 Step 1d: Select cheese (Extra, regular, light, none)
 Step 2:  Wait for the delivery
-ste9: tip driver
+Step 9: Tip driver
